@@ -1,4 +1,4 @@
-# Video-Classifier
+# Video-Action classification system
 🎥 Human Action Recognition using CNN + LSTM
 
 This project is an AI-based Human Action Recognition system built using a hybrid CNN + LSTM deep learning model.
